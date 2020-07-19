@@ -8,7 +8,7 @@ In order to find some answers we chose to use IMDB as our source of information 
 
 Data sources:
 1. Basic database provided by IMDB containing for each title - which genres it is categorized as
-2. IMDB api - the api frovided an access to the plot of each animation movie
+2. IMDB api - the api provided an access to the plot of each animation movie
 3. List of words and number of occurences of each word - built by us
 3. Our last DB - animation movies with female leading characters - built by us.
 
@@ -32,14 +32,14 @@ Level 3:
 
 Summary of the process and our main challenges- 
 - We went from having 6.5 million movies - to 7154 animation movies - to 1121 animation movies with female leading characters
-- The data strted as plots of movies, with no specific clasification weather the leading character is a female or male. 
+- The data started as plots of movies, with no specific clasification weather the leading character is a female or male. 
 furteremore, unlike regular movies (not animation) where the gender of the actors can imply on the gender of the leading character in the movie, in animation movies this is not always the case, so our only source of information was the plots of the movies and the words that are used there to describe the main characters - this was our main challenge in the process - deciding on a way to determine what is the gender of the leading characters from texts that do not directly imply on this kind of imformation.
 - The formation of the data was very helpful for our research - the api of IMDB provided an efficient way to read the information and use our algorithms on it and made it possible to make most of the process automated and not manual.
 - Reguarding the gender setermination challenge - The results we got contains movies that "passed" our filters although they are not female leading character's movies, meaning some of the results are "false positive". this is due to the algorithm we used, in further research these movies could be filtered either manualy or using pairs of words instead of singe words. either way - we prefered not missing potential movies and the results fitted our assamptions.
 
 Results:
 - The results show an increase in the number of animation movies with female leading characters over the years
-- The study case we chose - mainly because the US is a very big manufacturer of animation movies - shows that even though there is an increase - the relative amounts of anumation movies with female leading characters has decreased comparing to the increasing number of total animation movies created in the US.
+- The study case we chose - mainly because the US is a very big manufacturer of animation movies - shows that even though there is an increase - the relative amounts of animation movies with female leading characters has decreased comparing to the increasing number of total animation movies created in the US.
 - The first conclusion was not surprising to us given the "female status" in the world, more and more movies are written around strong independent woman figures (animation and regular movies)
 - The secound result was very surprising - as we described on our site - it shows that there is still work to be done, and that the gap is still there in a country that has a very big animation movies industry.
 
