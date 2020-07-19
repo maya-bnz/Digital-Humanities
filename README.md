@@ -7,7 +7,7 @@ We chose to investigate weather there is an increase in female leading character
 In order to find some answers we chose to use IMDB as our source of information since IMDB has descriptions of over 6.5 million movies.
 
 Data sources:
-1. Basic database provided by IMDB containing for each title - which genres it is categorized as
+1. Basic database provided by IMDB containing for each title - which genres it is categorized as - DB link: https://datasets.imdbws.com/ (title.basics.tsv.gz)
 2. IMDB api - the api provided an access to the plot of each animation movie
 3. List of words and number of occurences of each word - built by us
 3. Our last DB - animation movies with female leading characters - built by us.
