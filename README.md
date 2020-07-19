@@ -47,4 +47,10 @@ In conclision -
 We took a subject that is not in the center of the attention regarding the status of women, since it is related with kids, were the comparison between the genders is not done as often as in grownups, therefore we didn't have the answers to our research question "clear" and "obvious"
 Using different algorithms and manualy processing we were able to collect the results from the basic data base we had and present them in an imformative way to the wide audience.
 
+Our project website:
+https://mayaox.wixsite.com/wonderwomenanimation
+
+Course website:
+https://www.cs.bgu.ac.il/~dhcs202/Main
+
 
