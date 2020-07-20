@@ -13,6 +13,7 @@ Data sources:
 3. Our last DB - animation movies with female leading characters - built by us.
 
 The research process:
+
 Level 1:
 - Using a Python program written by us - we collected all the animation movies.
 - Collecting the plots of all animation movies to one test file, in order to go over and count the common words
